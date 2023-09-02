@@ -20,7 +20,7 @@ Além da formação, por meio de cursos gratuitos e interações com  profission
 ---
 ## Modelo de Arquitetura Utilizada
 
-![Nuvem AWS](https://i.imgur.com/v1WwqEG.png)
+![Arquitetura](https://imgur.com/29fiqn6.jpg)
 
 ---
 ## Documento da Apresentação do Projeto
