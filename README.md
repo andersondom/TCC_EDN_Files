@@ -37,8 +37,8 @@ Além da formação, por meio de cursos gratuitos e interações com  profission
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Francisco%20Lima%20de%20Azevedo-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/francisco-lima-de-azevedo/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mateus%20Azevedo%20Ferreira-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anderson-domingos/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mateus%20Azevedo%20Ferreira-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mateus-azevedo-248646164/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rodrigo%20Lima%20Finco-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rodrigo-finco-7393b3281/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Victor%20Henrique%20de%20Alencar%20Rodrigues-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anderson-domingos/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Victor%20Henrique%20de%20Alencar%20Rodrigues-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/victor-henrique-alencar-rodrigues-894a771a7)
